@@ -5,7 +5,6 @@ from models.psubs import partial_state_update_blocks
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 
 simulation_parameters = {
     'T': range(10),
